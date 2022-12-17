@@ -1,4 +1,3 @@
 - pergi ke tempat konser
 - antri ke tempat penukaran tiket
 - menunjukan qr code yang telah di kirim lewat email
-- akan diberikan tiket fisik dengan gelang konser
